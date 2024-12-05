@@ -1,0 +1,34 @@
+body {
+    background-color:  #4CAF50;
+}
+
+table {
+    border: 1px solid black;
+    background-color:  #4CAF50;
+    margin-top: 25px;
+}
+
+caption {
+    caption-side: top;
+    text-align: left;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+}
+
+ol {
+    padding-right: 10px;
+}
+
+figure {
+    border: 2px solid black;
+}
+
+figcaption {
+    text-align: center;
+}
+
+img {
+    padding: 10px;
+    width: 150px;
+}
+
